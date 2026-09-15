@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Todolist<br>🌱 I’m currently learning React<br>
+🔭 I’m currently working on Portfolio<br>🌱 I’m currently learning React<br>
 
 
 # 💻 Tech Stack:
