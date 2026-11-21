@@ -1,42 +1,9 @@
-<div align="center">
-Salut, moi c'est Fire2ninja 👋
-<a href="https://github.com/Fire2ninja"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Web+%26+Logiciel;Passionn%C3%A9+de+design+et+de+vid%C3%A9o;En+train+d'apprendre+React+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" /> </a> </div>
-💫 À propos
-🔭 Je travaille actuellement sur NinjaPhoto et GsbRapports
-🌱 J'apprends React
-🎨 J'aime mélanger code et création : montage vidéo, 3D, design UI
-💬 Ouvert aux échanges sur le web, le design ou les projets open source
-💻 Tech Stack
+<div align="center"> <h1>Salut, moi c'est Fire2ninja 👋</h1> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+%26+Logiciel;Passionn%C3%A9+de+design+%26+vid%C3%A9o;J'apprends+React+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
 
-Langages
+<br/><br/>
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cs" /> </p>
+<h2>💫 À propos</h2> <p> 🔭 Je travaille actuellement sur <b><a href="https://github.com/Fire2ninja/NinjaPhoto">NinjaPhoto</a></b> et <b><a href="https://github.com/Fire2ninja/GsbRapports">GsbRapports</a></b><br/> 🌱 J'apprends <b>React</b><br/> 💬 Ouvert aux échanges sur le web, le design ou les projets open source </p> <br/> <h2>💻 Tech Stack</h2> <h4>Langages</h4> <p> <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48" /></a> <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48" /></a> <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" /></a> <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" /></a> <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="48" height="48" /></a> </p> <h4>Web</h4> <p> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" /></a> <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="48" height="48" /></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" /></a> <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm" width="48" height="48" /></a> </p> <h4>Bases de données & serveurs</h4> <p> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" title="MySQL" width="48" height="48" /></a> <a href="https://mariadb.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="48" height="48" /></a> <a href="https://httpd.apache.org/"><img src="https://skillicons.dev/icons?i=apache" alt="Apache" title="Apache" width="48" height="48" /></a> </p> <h4>Design & vidéo</h4> <p> <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48" /></a> <a href="https://www.adobe.com/fr/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" title="Photoshop" width="48" height="48" /></a> <a href="https://www.adobe.com/fr/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" title="Premiere Pro" width="48" height="48" /></a> <a href="https://www.adobe.com/fr/products/aftereffects.html"><img src="https://skillicons.dev/icons?i=ae" alt="After Effects" title="After Effects" width="48" height="48" /></a> <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" title="Blender" width="48" height="48" /></a> <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="48" height="48" /></a> </p> <h4>Outils & organisation</h4> <p> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48" /></a> <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" width="48" height="48" /></a> <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" width="48" height="48" /></a> <a href="https://www.cisco.com/"><img src="https://cdn.simpleicons.org/cisco/049FD9" alt="Cisco" title="Cisco" width="48" height="48" /></a> <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" width="48" height="48" /></a> <a href="https://trello.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="48" height="48" /></a> </p> <br/> <h2>🚀 Projets en cours</h2> <table> <tr> <th>Projet</th> <th>Description</th> <th>Stack</th> </tr> <tr> <td>📸 <a href="https://github.com/Fire2ninja/NinjaPhoto"><b>NinjaPhoto</b></a></td> <td><i>Décris ton projet en une phrase</i></td> <td><i>ex. React, Node.js</i></td> </tr> <tr> <td>📋 <a href="https://github.com/Fire2ninja/GsbRapports"><b>GsbRapports</b></a></td> <td><i>Décris ton projet en une phrase</i></td> <td><i>ex. C#, MySQL</i></td> </tr> </table> <br/> <h2>📊 Statistiques GitHub</h2> <img height="165" src="https://github-readme-stats.shion.dev/api?username=Fire2ninja&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" /> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fire2ninja&theme=tokyonight&hide_border=true&layout=compact" /> <br/> <img src="https://streak-stats.demolab.com/?user=Fire2ninja&theme=tokyonight&hide_border=true" />
 
-Frameworks & outils web
+<br/><br/>
 
-<p> <img src="https://skillicons.dev/icons?i=react,vite,nodejs,npm" /> </p>
-
-Bases de données & serveurs
-
-<p> <img src="https://skillicons.dev/icons?i=mysql,apache" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="48" /> </p>
-
-Design & vidéo
-
-<p> <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,blender" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="48" /> </p>
-
-Versioning, réseau & organisation
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,arduino,notion" /> <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="48" /> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="48" /> </p>
-🚀 Projets en cours
-Projet	Description	Stack
-📸 NinjaPhoto	Décris ton projet en une phrase	ex. React, Node.js
-📋 GsbRapports	Décris ton projet en une phrase	ex. C#, MySQL
-📊 Statistiques GitHub
-<div align="center"> <img height="170" src="https://github-readme-stats.shion.dev/api?username=Fire2ninja&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" /> <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fire2ninja&theme=tokyonight&hide_border=true&layout=compact" /> <img src="https://streak-stats.demolab.com/?user=Fire2ninja&theme=tokyonight&hide_border=true" /> </div>
-<div align="center">
-
-Afficher l'image
-
-⭐ N'hésite pas à jeter un œil à mes repos !
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Fire2ninja&color=7C3AED&style=flat-square&label=Visiteurs" /> <p><i>⭐ N'hésite pas à jeter un œil à mes repos !</i></p> </div>
