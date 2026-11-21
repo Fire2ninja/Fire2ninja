@@ -1,15 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on NinjaPhoto and GsbRapports<br>🌱 I’m currently learning React<br>
+<div align="center">
+Salut, moi c'est Fire2ninja 👋
+<a href="https://github.com/Fire2ninja"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Web+%26+Logiciel;Passionn%C3%A9+de+design+et+de+vid%C3%A9o;En+train+d'apprendre+React+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" /> </a> </div>
+💫 À propos
+🔭 Je travaille actuellement sur NinjaPhoto et GsbRapports
+🌱 J'apprends React
+🎨 J'aime mélanger code et création : montage vidéo, 3D, design UI
+💬 Ouvert aux échanges sur le web, le design ou les projets open source
+💻 Tech Stack
 
+Langages
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Fire2ninja&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Fire2ninja&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fire2ninja&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cs" /> </p>
 
----
-[![](https://komarev.com/ghpvc/?username=Fire2ninja&icon=0&color=7)](https://visitcount.itsvg.in)
+Frameworks & outils web
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p> <img src="https://skillicons.dev/icons?i=react,vite,nodejs,npm" /> </p>
+
+Bases de données & serveurs
+
+<p> <img src="https://skillicons.dev/icons?i=mysql,apache" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="48" /> </p>
+
+Design & vidéo
+
+<p> <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,blender" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="48" /> </p>
+
+Versioning, réseau & organisation
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,arduino,notion" /> <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="48" /> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="48" /> </p>
+🚀 Projets en cours
+Projet	Description	Stack
+📸 NinjaPhoto	Décris ton projet en une phrase	ex. React, Node.js
+📋 GsbRapports	Décris ton projet en une phrase	ex. C#, MySQL
+📊 Statistiques GitHub
+<div align="center"> <img height="170" src="https://github-readme-stats.shion.dev/api?username=Fire2ninja&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" /> <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fire2ninja&theme=tokyonight&hide_border=true&layout=compact" /> <img src="https://streak-stats.demolab.com/?user=Fire2ninja&theme=tokyonight&hide_border=true" /> </div>
+<div align="center">
+
+Afficher l'image
+
+⭐ N'hésite pas à jeter un œil à mes repos !
+
+</div>
