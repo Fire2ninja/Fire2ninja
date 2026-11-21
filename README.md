@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NinjaPhoto<br>🌱 I’m currently learning React<br>
+🔭 I’m currently working on NinjaPhoto<br>🌱 I’m currently learning React and GsbRapports<br>
 
 
 # 💻 Tech Stack:
